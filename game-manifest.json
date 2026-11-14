@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "gameId": "4bx01nz468wc",
-  "title": "無題のゲーム",
+  "title": "焼肉ゲーム",
   "versionId": "17f582fe-b2ee-4618-93ac-a20d2f239582",
-  "snapshotAt": "2026-11-14T12:51:06.478Z",
+  "snapshotAt": "2026-11-14T12:57:06.877Z",
   "playUrl": "https://gcn-play.com/play/4bx01nz468wc",
   "files": [
     {
       "path": "README.md",
       "mime": "text/markdown; charset=utf-8",
-      "bytes": 1868,
-      "sha256": "5e50392afc1c5c919817cdc58a8b01abb867580e8dca7f064a9a55561babcb42"
+      "bytes": 1865,
+      "sha256": "5cf4f46d414054776030da5edbce9a87af62bb25d1492453ab5b1e36913c0ff6"
     },
     {
       "path": "index.html",
